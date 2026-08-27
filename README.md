@@ -232,7 +232,7 @@ O dashboard apresenta indicadores e visualizações relacionadas com:
 * Principais KPIs comerciais.
 
 ### Dashboard
-**[Visualizar Dashboard](resultados/dashboard_analise_vendas.png)**
+**[Visualizar Dashboard](imagens/dashboard_analise_vendas.png)**
 
 ## Principais Resultados
 
