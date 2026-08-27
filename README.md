@@ -234,7 +234,7 @@ O dashboard apresenta indicadores e visualizações relacionadas com:
 ### Dashboard
 **[Visualizar Dashboard](resultados/dashboard_analise_vendas.png)**
 
-## 🔎 Principais Resultados
+## Principais Resultados
 
 A análise permitiu identificar diferenças relevantes no desempenho entre produtos, lojas e períodos.
 
@@ -250,7 +250,7 @@ Esses resultados demonstram a importância de analisar diferentes indicadores em
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia      | Utilização                              |
 | --------------- | --------------------------------------- |
