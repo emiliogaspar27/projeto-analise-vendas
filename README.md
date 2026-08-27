@@ -293,7 +293,7 @@ projeto-analise-vendas/
 
 A documentação completa do projeto encontra-se disponível no relatório, contendo o desenvolvimento das etapas, metodologia, análises e resultados.
 
-**[Consultar relatório](relatorio/relatorio_analise_vendas.pdf)**
+**[Consultar relatório](imagens/relatorio_analise_vendas.pdf)**
 
 ---
 
